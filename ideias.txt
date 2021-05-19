@@ -1,0 +1,5 @@
+ter um arquivo .toml ou .json para guardar informaçoes do usuario 
+
+obter informaçoes da data e hora
+
+obter informaçoes de clima de uma região
